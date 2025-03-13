@@ -1,6 +1,6 @@
 <div align="center">
 
-ADS (4/6) <br><br>
+ADS (5/6) <br><br>
 
 ## Tech Stack:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
